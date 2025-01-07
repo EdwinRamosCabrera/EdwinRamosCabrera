@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
 <div align = center>
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm <span style="color:#179BB0">**Edwin**</span>!
@@ -20,44 +18,42 @@
 
 ### 👨‍💻 Programming Languages
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,python,typescript&theme=light" />
   </a>
-</p>
 
 ### 📦 Frameworks and Libraries
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react,dotnet,spring,django&theme=light" />
   </a>
-  
-</p>
 
 ### 💾 Databases
 
-<a href="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg"><img src="icons\mysql-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg"><img src="icons\mysql-light.svg" width="50"></a>
 <a href="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg"><img src="icons\mssqlserver-light.svg" width="50"></a>
-<a href="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg"><img src="icons\postgressql-light.svg" width="50"></a>
-<a href="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg"><img src="icons\mongodb-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-light.svg"><img src="icons\postgressql-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/icons\mongodb-light.svg"><img src="icons\mongodb-light.svg" width="50"></a>
 
 ### 📈 Machine Learning
 
-<div style="background-color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: inline-block;">
-<a target="_blank" href="https://numpy.org/" style="display: inline-block;"><img src="https://miro.medium.com/v2/resize:fit:524/1*CsRki-Xfk8wFDAHJK5DX-w.png" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a><a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a><a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-</div>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg"><img src="icons\numpy-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/icons\pandas-light.svg"><img src="icons\pandas-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-light.svg"><img src="icons\seaborn-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons#2/scikitlearn-light.svg"><img src="icons_2\scikitlearn-light.svg" width="50"></a>
 
 ### 🧰 Others
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/git-light.svg"><img src="icons\git-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg"><img src="icons\github-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg"><img src="icons\powerbi-white.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/figma-light.svg"><img src="icons\figma-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/trello-light.svg"><img src="icons\trello-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/icons\vscode-light.svg"><img src="icons\vscode-light.svg" width="50"></a>
+<a href="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-light.svg"><img src="icons\intellijidea-light.svg" width="50"></a>
 
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=EdwinRamosCabrera&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdwinRamosCabrera&theme=flag-india&hide_border=false)<br>
@@ -69,10 +65,9 @@
 
 ## ✍️ Dev Quote
 
-<div style="background-color: white; padding: 20px; border-radius: 10px 10px 0 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: inline-block; text-align: center; font-family: Arial, sans-serif; max-width: 500px; margin: 0 auto;">
-  <p style="color: #31393C; font-style: italic; font-size: 18px; margin: 0;"><span style="color: #2176FF; font-weight: bold;">“</span>Imagination is more important than knowledge.<span style="color: #2176FF; font-weight: bold;">”</span></p>
-  <p style="color: #007BFF; text-align: right; font-size: 16px; margin-top: 15px;">- Albert Einstein</p>
-</div>
+> **“Imagination is more important than knowledge.”**
+>--
+> ---  Albert Einstein  ---
 
 <br>
 
